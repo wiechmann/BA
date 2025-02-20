@@ -1,0 +1,14 @@
+,size (megabytes),doubles (millions),unique values (percent),1st order entropy (bits),randomness (percent)
+msg_bt,254.0,33.3,92.9,23.7,95.1
+msg_lu,185.1,24.3,99.2,24.5,99.8
+msg_sp,276.7,36.3,98.9,25.0,99.7
+msg_sppm,266.1,34.9,10.2,11.2,51.6
+msg_sweep3d,119.9,15.7,89.8,23.4,98.6
+num_brain,135.3,17.7,94.9,24.0,99.9
+num_comet,102.4,13.4,88.9,22.0,93.8
+num_control,152.1,19.9,98.5,24.1,99.6
+num_plasma,33.5,4.4,0.3,13.7,99.4
+obs_error,59.3,7.8,18.0,17.8,87.2
+obs_info,18.1,2.4,23.9,18.1,94.5
+obs_spitzer,189.0,24.8,5.7,17.4,85.0
+obs_temp,38.1,5.0,100.0,22.3,100.0
